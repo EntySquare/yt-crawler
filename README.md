@@ -61,7 +61,7 @@
 ---
 
 ### 2. 视频播放页面
-- **示例链接：** [▶️ 视频播放](https://audio.enty.services/video?video_id=7056631930162400512)  
+- **示例链接：** [▶️ 视频播放](https://audio.enty.services/video?video_id=XZE4SqkPOOI)  
 - **功能介绍：**
   - ▶️ **播放视频**
   - 💾 **下载视频**（可选择下载到服务器或本地）

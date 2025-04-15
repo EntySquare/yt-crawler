@@ -1,7 +1,6 @@
 # 🚨 注意!!! 🚨
 > **项目仅供学习交流**  
 > **更新内容：**  
-> - ✨ 新增抖音无水印视频提取功能，需安装 **Node.js** 环境  
 > - 🌐 开启 TikTok/YouTube 爬虫功能，需境外 IP 支持  
 > - 🍪 若抖音爬虫失效，请手动更新 **Cookies**  
 > - 📦 所需第三方库详见 `requirements.txt`
@@ -12,7 +11,7 @@
 
 - **预览链接：** [🎥 视频列表](https://audio.enty.services/video_list)  
 - **功能介绍：**  
-  - 🔍 **无水印视频抓取**：支持抓取 TikTok、YouTube 和抖音视频  
+  - 🔍 **无水印视频抓取**：支持抓取 TikTok、YouTube
   - 📤 **视频发布**：支持将 TikTok/YouTube 视频发布至抖音，或将抖音视频发布到 TikTok/YouTube  
   - ⚙️ **发布视频工具**：使用 Selenium 进行自动化登录及发布操作
 

@@ -1,7 +1,6 @@
 # 🚨 ATTENTION!!! 🚨
 > **Project for learning and communication purposes only**  
 > **Updates:**  
-> - ✨ Added Douyin watermark-free video extraction feature, requires **Node.js** environment  
 > - 🌐 Enabled TikTok/YouTube crawler functionality, requires overseas IP support  
 > - 🍪 If Douyin crawler fails, please manually update **Cookies**  
 > - 📦 Required third-party libraries are listed in `requirements.txt`

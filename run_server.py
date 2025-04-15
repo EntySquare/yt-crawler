@@ -172,7 +172,8 @@ def download_video():
         #yt-dlp --cookies-from-browser chrome [video_url]
         cmd = [
             'yt-dlp',
-            '--cookies', 'cookies.txt',
+            #'--cookies', 'cookies.txt',
+            '--cookies-from-browser', 'chrome',  # 使用Chrome浏览器的cookies
             '--user-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
             '--format', 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best',
             '--force-ipv4',

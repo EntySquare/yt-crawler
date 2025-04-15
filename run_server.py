@@ -168,7 +168,8 @@ def download_video():
         print(f'下载: {video_id} 无需下载')
         return video_name
     try:
-        # FIXME: 使用浏览器的cookies
+        # FIXME: yt-dlp 自动获取浏览器中的 Cookies
+        #yt-dlp --cookies-from-browser chrome [video_url]
         cmd = [
             'yt-dlp',
             '--cookies', 'cookies.txt',

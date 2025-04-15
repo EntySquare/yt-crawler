@@ -10,7 +10,7 @@
 
 # 📺 Preview and Features
 
-- **Preview Link:** [🎥 Video List](http://185.212.58.40:5050/video_list)  
+- **Preview Link:** [🎥 Video List](https://audio.enty.services/video_list)  
 - **Features:**  
   - 🔍 **Watermark-free Video Scraping**: Supports TikTok, YouTube, and Douyin videos  
   - 📤 **Video Publishing**: Supports publishing TikTok/YouTube videos to Douyin, or Douyin videos to TikTok/YouTube  
@@ -54,7 +54,7 @@
 # 🌐 Web Pages
 
 ### 1. Video List Page
-- **Example Link:** [🎥 Video List](http://185.212.58.40:5050/video_list)  
+- **Example Link:** [🎥 Video List](https://audio.enty.services/video_list)  
 - **Features:**
   - 📜 Pagination: Maximum 50 videos per page, `pageSize` is fixed at 50  
   - 🔗 Click on video to automatically jump to corresponding video playback page
@@ -62,7 +62,7 @@
 ---
 
 ### 2. Video Playback Page
-- **Example Link:** [▶️ Video Playback](http://185.212.58.40:5050/video?video_id=7056631930162400512)  
+- **Example Link:** [▶️ Video Playback](https://audio.enty.services/video?video_id=7056631930162400512)  
 - **Features:**
   - ▶️ **Play Video**
   - 💾 **Download Video** (can choose to download to server or local)
@@ -72,7 +72,7 @@
 ---
 
 ### 3. Video Publishing Page
-- **Example Link:** [📤 Video Publishing](http://185.212.58.40:5050/handling)  
+- **Example Link:** [📤 Video Publishing](https://audio.enty.services/handling)  
 - **Features:**
   - ▶️ **Play Video**
   - 🎬 **Merge Video**

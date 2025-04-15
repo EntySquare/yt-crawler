@@ -42,4 +42,4 @@ pyexecjs
 loguru
 lxml
 pytube
-yt-dlp[crypto]
+yt-dlp
